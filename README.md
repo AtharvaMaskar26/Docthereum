@@ -55,6 +55,3 @@ So we were able to test the verification functionality on Kovan, all while deplo
 #### 4. Chainlink 
 #### 5. React 
 #### 6. Web3 
-
-
-## Test live 🚀 :- https://docthereum.web.app/
